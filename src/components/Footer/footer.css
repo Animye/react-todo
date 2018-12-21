@@ -1,0 +1,13 @@
+.last {
+  display: flex;
+  justify-content: space-between;
+}
+.last > li {
+  line-height: 25px;
+  font-weight: 100;
+  cursor: pointer;
+}
+.last > span {
+  /* margin-right: 90px; */
+  font-weight: 100;
+}
